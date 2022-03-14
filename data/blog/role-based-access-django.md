@@ -30,7 +30,7 @@ Above implies the entire format will be implemented with group and no granular p
 - [x] Application/api security (JWT token generation)
 - [x] Data normalizations (Database functionlity)
 - [x] Auditable data (Timestamps and user profile on any data manupilation done)
-- [ ] Application testability (Unit tests to achieve coverage of < 90%)
+- [ ] Application testability (Unit tests to achieve coverage greater 90%)
 - [x] Application documentation (Feature and code documentation on readme file)
 - [x] Code versioning (Git hub)
 - [x] Deployment and delivery via Heroku
@@ -290,5 +290,3 @@ Sample response
 ### Invited user request accept request invited role
 
 ### Add remove permisions from group
-
-<!-- Logged in user roles => Permisions in the groups  -->
