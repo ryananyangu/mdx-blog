@@ -44,11 +44,11 @@ Above implies the entire format will be implemented with group and no granular p
 
 ### Research material
 
-- <https://simpleisbetterthancomplex.com/tutorial/2018/01/18/how-to-implement-multiple-user-types-with-django.html>
-- <https://hashedin.com/blog/configure-role-based-access-control-in-django/>
-- <https://bootcamp.uxdesign.cc/designing-roles-and-permissions-ux-case-study-b1940f5a9aa>
-- <https://hackernoon.com/configure-role-based-access-control-in-django-74fa94a54aff>
-- <https://www.django-rest-framework.org/api-guide/permissions/>
+- [user types with django](https://simpleisbetterthancomplex.com/tutorial/2018/01/18/how-to-implement-multiple-user-types-with-django.html)
+- [role based access control](https://hashedin.com/blog/configure-role-based-access-control-in-django)
+- [designing roles and permissions](https://bootcamp.uxdesign.cc/designing-roles-and-permissions-ux-case-study-b1940f5a9aa)
+- [configure role based access control](https://hackernoon.com/configure-role-based-access-control-in-django-74fa94a54aff)
+- [api guide permissions](https://www.django-rest-framework.org/api-guide/permissions/)
 
 ### Application setup
 
